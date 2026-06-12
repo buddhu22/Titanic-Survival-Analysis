@@ -72,6 +72,8 @@ Titanic_Survival_Project/
 │   └── app.py
 ├── notebooks/            # Jupyter notebooks for EDA and ML
 │   └── Titanic_Data_Storytelling_and_ML.ipynb
+├── models/               # Saved machine learning models
+│   └── model.pkl
 ├── reports/              # Career materials and summaries
 │   └── career_materials.md
 ├── requirements.txt      # Project dependencies
